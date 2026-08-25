@@ -149,5 +149,8 @@ To enable web push notifications:
 
 ---
 
+## 🌐 Live url:
+https://developer-portfolio-production-fylk6p.laravel.cloud/
+
 ## 📄 License
 This project is open-sourced software licensed under the [MIT license](LICENSE).
